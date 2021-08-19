@@ -1,4 +1,4 @@
-const Node = require('./main')
+const Node = require('./Node')
 
 const oldest = new Node('John');
 const middle = new Node('Jacob');
